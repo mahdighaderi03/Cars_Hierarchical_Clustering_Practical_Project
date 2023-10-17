@@ -6,9 +6,7 @@ It is obvious that we have 3 main clusters with the majority of vehicles in thos
 # Cars:
 
 * Cluster 1: with almost high mpg, and low in horsepower.
-
 * Cluster 2: with good mpg and horsepower, but higher price than average.
-
 * Cluster 3: with low mpg, high horsepower, highest price.
 
 # Trucks:
